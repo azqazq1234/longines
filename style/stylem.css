@@ -9,7 +9,7 @@ header h1{margin-bottom:15px;
 color:white;
 font-family: tahoma;
 font-size: 40px;}
-img{width:100%;}
+img{width:100%;display: block;}
 
 
 nav{display:table-cell;margin-top:20px;width:150px;padding-left: 10px;}
